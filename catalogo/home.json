@@ -1,8 +1,8 @@
 {
   "canales": [
     {
-      "id": "cinemax",
-      "nombre": "Cinemax",
+      "id": "PRUEBA",
+      "nombre": "PRUEBA",
       "logo_url": "https://mi-cdn.com/logos/cinemax.png",
       "poster_url": "https://dummyimage.com/800x450/222/fff&text=Cinemax",
       "stream_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
