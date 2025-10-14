@@ -26,9 +26,9 @@
     }
   ],
   "categorias": [
-    { "id": "deportes", "nombre": "Deportes", "icon_url": "https://dummyimage.com/100x100/444/fff&text=DEP" },
-    { "id": "peliculas", "nombre": "Películas", "icon_url": "https://dummyimage.com/100x100/555/fff&text=PEL" },
-    { "id": "series", "nombre": "Series", "icon_url": "https://dummyimage.com/100x100/666/fff&text=SER" },
-    { "id": "infantil", "nombre": "Infantil", "icon_url": "https://dummyimage.com/100x100/777/fff&text=INF" }
+    { "id": "Netflix", "nombre": "Deportes", "icon_url": "https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5.fit_lim.size_1050x591.v1582751026.png" },
+    { "id": "Disney+", "nombre": "Películas", "icon_url": "https://dummyimage.com/100x100/555/fff&text=PEL" },
+    { "id": "Prime Video", "nombre": "Series", "icon_url": "https://dummyimage.com/100x100/666/fff&text=SER" },
+    { "id": "HBO MAX", "nombre": "Infantil", "icon_url": "https://dummyimage.com/100x100/777/fff&text=INF" }
   ]
 }
