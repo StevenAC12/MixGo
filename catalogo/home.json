@@ -1,0 +1,26 @@
+{
+  "canales": [
+    {
+      "id": "cinemax",
+      "nombre": "Cinemax",
+      "logo_url": "https://mi-cdn.com/logos/cinemax.png",
+      "poster_url": "https://dummyimage.com/800x450/222/fff&text=Cinemax",
+      "stream_url": "https://test-streams.mux.dev/bbb-abr/bbb.m3u8",
+      "sinopsis": "Demo de canal en vivo."
+    },
+    {
+      "id": "sintel",
+      "nombre": "Sintel",
+      "logo_url": "https://mi-cdn.com/logos/sintel.png",
+      "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
+      "stream_url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+      "sinopsis": "Película de demo."
+    }
+  ],
+  "categorias": [
+    { "id": "deportes", "nombre": "Deportes", "icon_url": "https://dummyimage.com/100x100/444/fff&text=DEP" },
+    { "id": "peliculas", "nombre": "Películas", "icon_url": "https://dummyimage.com/100x100/555/fff&text=PEL" },
+    { "id": "series", "nombre": "Series", "icon_url": "https://dummyimage.com/100x100/666/fff&text=SER" },
+    { "id": "infantil", "nombre": "Infantil", "icon_url": "https://dummyimage.com/100x100/777/fff&text=INF" }
+  ]
+}
