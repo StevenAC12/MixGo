@@ -17,6 +17,17 @@
       "sinopsis": "Película de demo."
     },
     {
+      "nombre": "Canal de Prueba",
+      "poster_url": "https://tuweb.com/posters/canal_prueba.jpg",
+      "logo_url": "https://tuweb.com/logos/canal_prueba.png",
+      "stream_url": "https://oxide.lauchacohete.top/hk284BUvIXm-DKtVape_y2m3HFyKTwrhYm7U-nXC_yYqNqYSdAYsU8wnVdbPmSzTnFqpD-AsUJh6gd3RMepqgQ/oGXTD7gd0QrCApMQNd-wKlMS89d4VaE9vyKJ8zw8gdA/480.m3u8",
+      "headers": {
+        "Referer": "https://oxide.lauchacohete.top/",
+        "Origin": "https://oxide.lauchacohete.top",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; MixGoApp) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36"
+      }
+    },
+    {
       "id": "pelis",
       "nombre": "pelis",
       "logo_url": "https://mi-cdn.com/logos/sintel.png",
