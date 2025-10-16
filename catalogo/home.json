@@ -9,6 +9,14 @@
       "sinopsis": "Demo de canal en vivo."
     },
     {
+      "id": "115" 
+      "nombre": "Canal Capital" 
+      "logo_url": "https://cdn.m3u.cl/logo/115_Canal_Capital.png"
+      "poster_url": "https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8"
+      "stream_url": "https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8"
+      "sinopsis": "canal capital"
+    },
+    {
       "id": "sintel",
       "nombre": "Sintel",
       "logo_url": "https://mi-cdn.com/logos/sintel.png",
