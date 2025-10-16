@@ -9,11 +9,11 @@
       "sinopsis": "Demo de canal en vivo."
     },
     {
-      "id": "canal_capital",
-      "nombre": "Canal Capital",
+      "id": "ESPN",
+      "nombre": "ESPN",
       "logo_url": "https://mi-cdn.com/logos/sintel.png",
       "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
-      "stream_url": "https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8",
+      "stream_url": "https://deportes.ksdjugfsddeports.com:9092/MTg2Ljg2LjMyLjIyOQ==/5_.m3u8?token=eRNh3-ElJvfPornb2dOzxA&expires=1760641095",
       "sinopsis": "Película de demo."
     },
     {
