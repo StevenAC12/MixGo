@@ -9,6 +9,13 @@
       "sinopsis": "Demo de canal en vivo."
     },
     {
+      "nombre": "Canal SAOHG DAS Regions",
+      "logo_url": "https://cdn-icons-png.flaticon.com/512/483/483947.png",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&text=SAOHG+DAS+Regions",
+      "stream_url": "https://live.saohgdasregions.fun:9092/MTg2Ljg2LjMyLjIyOQ==/41_.m3u8?token=zUVta3rjByi_PCeXaAbqBw&expires=1760641389",
+      "descripcion": "Transmisión en vivo de SAOHG DAS Regions"
+    },
+    {
       "id": "tnt",
       "nombre": "tnt",
       "logo_url": "https://mi-cdn.com/logos/sintel.png",
