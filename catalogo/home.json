@@ -18,7 +18,7 @@
     },
     {
       "id": "103",
-      "nombre": "103",
+      "nombre": "CANAL UNO",
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
       "stream_url": "http://201.182.248.146:11011/play/a06a/index.m3u8",
@@ -37,7 +37,7 @@
       "nombre": "CARACOL",
       "logo_url": "https://static.wikia.nocookie.net/logopedia/images/0/0a/Canal_Congreso_2020.png/revision/latest?cb=20210429193857&path-prefix=es",
       "poster_url": "https://static.wikia.nocookie.net/logopedia/images/0/0a/Canal_Congreso_2020.png/revision/latest?cb=20210429193857&path-prefix=es",
-      "stream_url": "http://201.182.248.146:11011/play/a06c/index.m3u8",
+      "stream_url": "http://201.182.248.146:11011/play/a09g/index.m3u8",
       "sinopsis": "CARACOL TELEVISION."
     },
     {
