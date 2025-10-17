@@ -49,80 +49,8 @@
       "sinopsis": "Película"
     },
     {
-      "id": "107",
-      "nombre": "107",
-      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
-      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
-      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
-    },
-    {
-      "id": "108",
-      "nombre": "108",
-      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
-      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
-      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
-    },
-    {
-      "id": "109",
-      "nombre": "109",
-      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
-      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
-      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
-    },
-    {
-      "id": "110",
-      "nombre": "110",
-      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
-      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
-      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
-    },
-    {
-      "id": "111",
-      "nombre": "TNT",
-      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
-      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
-      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
-    },
-    {
-      "id": "112",
-      "nombre": "TNT",
-      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
-      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
-      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
-    },
-    {
-      "id": "113",
-      "nombre": "TNT",
-      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
-      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
-      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
-    },
-    {
-      "id": "114",
-      "nombre": "TNT",
-      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
-      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
-      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
-    },
-    {
-      "id": "115",
-      "nombre": "TNT",
-      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
-      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
-      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
-    },
-    {
       "id": "116",
-      "nombre": "TNT",
+      "nombre": "RCN NOVELAS",
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
       "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
@@ -130,14 +58,190 @@
     },
     {
       "id": "117",
-      "nombre": "TNT",
+      "nombre": "NUESTRA TELE",
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
       "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
       "sinopsis": "Película"
     },
     {
-      "id": "HBO",
+      "id": "118",
+      "nombre": "CANAL ZOOM",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
+    },
+    {
+      "id": "200",
+      "nombre": "ESPN",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
+    },
+    {
+      "id": "201",
+      "nombre": "ESPN2",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
+    },
+    {
+      "id": "202",
+      "nombre": "ESPN3",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
+    },
+    {
+      "id": "203",
+      "nombre": "ESPN4",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
+    },
+    {
+      "id": "204",
+      "nombre": "ESPN5",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
+    },
+    {
+      "id": "205",
+      "nombre": "ESPN6",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
+    },
+    {
+      "id": "206",
+      "nombre": "ESPN7",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
+    },
+    {
+      "id": "209",
+      "nombre": "WIN SPORTS",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
+    },
+    {
+      "id": "212",
+      "nombre": "DISCOVERY TURBO",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
+    },
+    {
+      "id": "302",
+      "nombre": "ID - INVESTIGATION DISCOVERY",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
+    },
+    {
+      "id": "303",
+      "nombre": "ATRES SERIES",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
+    },
+    {
+      "id": "304",
+      "nombre": "PASIONES",
+      "poster_url": "",
+      "logo_url": "",
+      "stream_url": "",
+      "sinopsis": ""
+    },
+    {
+      "id": "305",
+      "nombre": "E!",
+      "poster_url": "",
+      "logo_url": "",
+      "stream_url": "",
+      "sinopsis": ""
+    },
+    {
+      "id": "306",
+      "nombre": "",
+      "poster_url": "",
+      "logo_url": "",
+      "stream_url": "",
+      "sinopsis": ""
+    },
+    {
+      "id": "307",
+      "nombre": "",
+      "poster_url": "",
+      "logo_url": "",
+      "stream_url": "",
+      "sinopsis": ""
+    },
+    {
+      "id": "308",
+      "nombre": "",
+      "poster_url": "",
+      "logo_url": "",
+      "stream_url": "",
+      "sinopsis": ""
+    },
+    {
+      "id": "309",
+      "nombre": "",
+      "poster_url": "",
+      "logo_url": "",
+      "stream_url": "",
+      "sinopsis": ""
+    },
+    {
+      "id": "310",
+      "nombre": "",
+      "poster_url": "",
+      "logo_url": "",
+      "stream_url": "",
+      "sinopsis": ""
+    },
+    {
+      "id": "311",
+      "nombre": "",
+      "poster_url": "",
+      "logo_url": "",
+      "stream_url": "",
+      "sinopsis": ""
+    },
+    {
+      "id": "312",
+      "nombre": "",
+      "poster_url": "",
+      "logo_url": "",
+      "stream_url": "",
+      "sinopsis": ""
+    },
+    {
+      "id": "312",
+      "nombre": "",
+      "poster_url": "",
+      "logo_url": "",
+      "stream_url": "",
+      "sinopsis": ""
+    },
+    {
+      "id": "313",
       "nombre": "HBO",
       "logo_url": "https://mi-cdn.com/logos/sintel.png",
       "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
@@ -145,14 +249,14 @@
       "sinopsis": "Película de demo."
     },
     {
-      "nombre": "TNT",
+      "nombre": "314",
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
       "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
       "sinopsis": "Película"
     },
     {
-      "id": "Hbo",
+      "id": "315",
       "nombre": "HBO",
       "logo_url": "https://mi-cdn.com/logos/sintel.png",
       "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
@@ -160,7 +264,7 @@
       "sinopsis": "Película de demo."
     },
     {
-      "id": "sintel",
+      "id": "316",
       "nombre": "Sintel",
       "logo_url": "https://mi-cdn.com/logos/sintel.png",
       "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
@@ -168,7 +272,7 @@
       "sinopsis": "Película de demo."
     },
     {
-      "id": "canal_demo1",
+      "id": "317",
       "nombre": "Canal Demo1",
       "poster_url": "https://dummyimage.com/1280x720/111/fff&text=Canal+Demo",
       "logo_url": "https://dummyimage.com/200x80/000/fff&text=LOGO",
@@ -176,8 +280,8 @@
       "sinopsis": "Demo de canal en vivo."
     },
     {
-      "id": "pelis",
-      "nombre": "pelis",
+      "id": "821",
+      "nombre": "TELEVID",
       "logo_url": "https://mi-cdn.com/logos/sintel.png",
       "poster_url": "https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8?uid=aDsJ1CLUTrWmhu7EHMaiI89M7OtAHQC5&sid=Xp1fmUd4rcP5I9jJ5VzuNafLLFXB2z9L&pid=SPhi3tsCEj68SMhmDJQFqrNzRzZN6hro&pid_dvr=TEcVSccbOTF6uKyABffweitY0wpq9iPQ&an=screen&at=web-app&av=v6.0.212&ref=https%3A%2F%2Fwww.caracoltv.com%2F&res=375x211&without_cookies=false&listenerid=&dnt=true&access_token=1NXfukv3tEz4jjPXPN8YN08JKzHLZfobKLgiLrmNFwTprY59vd5TVQHspGouRl7m8b944HhtJIk&adInsertionGoogleStreamId=4ceea037-5c66-4205-a2c9-88b9224f1d6f:ATL",
       "stream_url": "https://oxide.lauchacohete.top/hk284BUvIXm-DKtVape_y2m3HFyKTwrhYm7U-nXC_yYqNqYSdAYsU8wnVdbPmSzTnFqpD-AsUJh6gd3RMepqgQ/oGXTD7gd0QrCApMQNd-wKlMS89d4VaE9vyKJ8zw8gdA/480.m3u8",
