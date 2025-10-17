@@ -49,6 +49,22 @@
       "sinopsis": "TELEANTIOQUIA."
     },
     {
+      "id": "107",
+      "nombre": "CANAL CAPITAL",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://201.182.248.146:11011/play/a06s/index.m3u8",
+      "sinopsis": "TELEANTIOQUIA."
+    },
+    {
+      "id": "108",
+      "nombre": "CityTV",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://201.182.248.146:11011/play/a06r/index.m3u8",
+      "sinopsis": "TELEANTIOQUIA."
+    },
+    {
       "id": "116",
       "nombre": "RCN NOVELAS",
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
