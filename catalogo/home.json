@@ -11,16 +11,16 @@
     {
       "id": "102",
       "nombre": "TeleCafe",
-      "poster_url": "",
-      "logo_url": "",
+      "poster_url": "https://raw.githubusercontent.com/StevenAC12/MixGo/refs/heads/main/iconos/postertelecafe.PNG",
+      "logo_url": "https://raw.githubusercontent.com/StevenAC12/MixGo/refs/heads/main/iconos/textotelecafe.PNG",
       "stream_url": "http://201.182.248.146:11011/play/a07c/index.m3u8",
       "sinopsis": "TELECAFE."
     },
     {
       "id": "103",
       "nombre": "Canal Uno",
-      "poster_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Canal_1_colombia.png",
-      "logo_url": "https://cdn.photoroom.com/v2/image-cache?path=gs%3A%2F%2Fbackground-7j6xz%2Fusers%2Ftemplates%2FY29hKWZutwbMGDgrOOn3e65lfHB3%2Ff1213989-8b8c-4024-932b-1b0fbd7fd73d%2F6a77b4b4-f4cd-438b-a83c-3f97cca7de65_thumbnail.webp&cacheBustingKey=1760703915",
+      "poster_url": "https://raw.githubusercontent.com/StevenAC12/MixGo/refs/heads/main/iconos/postercanaluno.PNG",
+      "logo_url": "https://raw.githubusercontent.com/StevenAC12/MixGo/refs/heads/main/iconos/textocanaluno.PNG",
       "stream_url": "http://201.182.248.146:11011/play/a06a/index.m3u8",
       "sinopsis": "CANAL UNO."
     },
