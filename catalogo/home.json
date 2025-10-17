@@ -1,12 +1,28 @@
 {
   "canales": [
     {
-      "id": "103",
+      "id": "101",
       "nombre": "CANAL UNO",
       "logo_url": "https://static.wikia.nocookie.net/logopedia/images/3/35/CanalUnoColombia2024red.svg/revision/latest/scale-to-width-down/180?cb=20241001160226&path-prefix=es",
       "poster_url": "https://static.wikia.nocookie.net/logopedia/images/3/35/CanalUnoColombia2024red.svg/revision/latest/scale-to-width-down/180?cb=20241001160226&path-prefix=es",
       "stream_url": "http://201.182.248.146:11011/play/a06a/index.m3u8",
       "sinopsis": "CANAL UNO."
+    },
+    {
+      "id": "102",
+      "nombre": "102",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
+    },
+    {
+      "id": "103",
+      "nombre": "103",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://201.182.248.146:11011/play/a06a/index.m3u8",
+      "sinopsis": "Película"
     },
     {
       "id": "104",
@@ -23,6 +39,102 @@
       "poster_url": "https://static.wikia.nocookie.net/logopedia/images/0/0a/Canal_Congreso_2020.png/revision/latest?cb=20210429193857&path-prefix=es",
       "stream_url": "http://201.182.248.146:11011/play/a06c/index.m3u8",
       "sinopsis": "CARACOL TELEVISION."
+    },
+    {
+      "id": "106",
+      "nombre": "106",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
+    },
+    {
+      "id": "107",
+      "nombre": "107",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
+    },
+    {
+      "id": "108",
+      "nombre": "108",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
+    },
+    {
+      "id": "109",
+      "nombre": "109",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
+    },
+    {
+      "id": "110",
+      "nombre": "110",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
+    },
+    {
+      "id": "111",
+      "nombre": "TNT",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
+    },
+    {
+      "id": "112",
+      "nombre": "TNT",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
+    },
+    {
+      "id": "113",
+      "nombre": "TNT",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
+    },
+    {
+      "id": "114",
+      "nombre": "TNT",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
+    },
+    {
+      "id": "115",
+      "nombre": "TNT",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
+    },
+    {
+      "id": "116",
+      "nombre": "TNT",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
+    },
+    {
+      "id": "117",
+      "nombre": "TNT",
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película"
     },
     {
       "id": "HBO",
