@@ -20,11 +20,11 @@
       }
     },
     {
-      "id": "tnt",
-      "nombre": "tnt",
+      "id": "Hbo",
+      "nombre": "HBO",
       "logo_url": "https://mi-cdn.com/logos/sintel.png",
       "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
-      "stream_url": "https://live.saohgdasregions.fun:9092/MTg2Ljg2LjMyLjIyOQ==/41_.m3u8?token=zUVta3rjByi_PCeXaAbqBw&expires=1760641389",
+      "stream_url": "http://200.35.176.154:8000/play/a00l/index.m3u8",
       "sinopsis": "Película de demo."
     },
     {
