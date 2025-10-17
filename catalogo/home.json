@@ -10,13 +10,10 @@
     },
     {
       "nombre": "TNT",
-      "poster_url": "https://dummyimage.com/1280x720/000/fff&text=SAOHG",
-      "logo_url": "https://dummyimage.com/300x120/111/fff&text=SAOHG",
-      "stream_url": "https://live.saohgdasregions.fun:9092/MTUyLjIwMi4xMDkuMTIw/41_.m3u8?token=O1OHa7PhlLZKRcpbqpeckg&expires=1760690699",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 10; MixGoApp) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Mobile Safari/537.36",
-        "Referer": "https://live.saohgdasregions.fun/",
-        "Origin": "https://live.saohgdasregions.fun"
+      "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
+      "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
+      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "sinopsis": "Película de demo."
       }
     },
     {
