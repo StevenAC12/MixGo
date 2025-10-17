@@ -1,12 +1,12 @@
 {
   "canales": [
     {
-      "id": "CANAL_CLARO",
-      "nombre": "CANAL CLARO",
+      "id": "CLARO",
+      "nombre": "CLARO",
       "logo_url": "https://static.wikia.nocookie.net/laguia/images/3/35/Logoclaro.png/revision/latest?cb=20170912161935&path-prefix=es",
       "poster_url": "https://static.wikia.nocookie.net/laguia/images/3/35/Logoclaro.png/revision/latest?cb=20170912161935&path-prefix=es",
-      "stream_url": "",
-      "sinopsis": "CANAL CLARO.."
+      "stream_url": "http://200.35.176.154:8000/play/a00s/index.m3u8",
+      "sinopsis": "CANAL CLARO."
     },
     {
       "id": "HBO",
