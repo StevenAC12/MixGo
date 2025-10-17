@@ -35,8 +35,8 @@
     {
       "id": "105",
       "nombre": "CARACOL",
-      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/0/0a/Canal_Congreso_2020.png/revision/latest?cb=20210429193857&path-prefix=es",
-      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/0/0a/Canal_Congreso_2020.png/revision/latest?cb=20210429193857&path-prefix=es",
+      "logo_url": "",
+      "poster_url": "",
       "stream_url": "http://201.182.248.146:11011/play/a09g/index.m3u8",
       "sinopsis": "CARACOL TELEVISION."
     },
@@ -46,7 +46,7 @@
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
       "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
+      "sinopsis": "TELEANTIOQUIA."
     },
     {
       "id": "116",
@@ -54,7 +54,7 @@
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
       "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
+      "sinopsis": "RCN NOVELAS."
     },
     {
       "id": "117",
@@ -62,7 +62,7 @@
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
       "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
+      "sinopsis": "NUESTRA TELE."
     },
     {
       "id": "118",
@@ -70,7 +70,7 @@
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
       "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
+      "sinopsis": "ZOOM TV."
     },
     {
       "id": "200",
@@ -78,7 +78,7 @@
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
       "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
+      "sinopsis": "CADENA ESPN."
     },
     {
       "id": "201",
@@ -86,7 +86,7 @@
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
       "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
+      "sinopsis": "CADENA ESPN."
     },
     {
       "id": "202",
@@ -94,7 +94,7 @@
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
       "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
+      "sinopsis": "CADENA ESPN."
     },
     {
       "id": "203",
@@ -102,7 +102,7 @@
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
       "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
+      "sinopsis": "CADENA ESPN."
     },
     {
       "id": "204",
@@ -110,7 +110,7 @@
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
       "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
+      "sinopsis": "CADENA ESPN."
     },
     {
       "id": "205",
@@ -118,7 +118,7 @@
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
       "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
+      "sinopsis": "CADENA ESPN."
     },
     {
       "id": "206",
@@ -126,7 +126,7 @@
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
       "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
+      "sinopsis": "CADENA ESPN."
     },
     {
       "id": "209",
@@ -134,7 +134,7 @@
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
       "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
+      "sinopsis": "WIN SPORTS."
     },
     {
       "id": "212",
@@ -142,15 +142,15 @@
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
       "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
+      "sinopsis": "DISCOVERY TURBO."
     },
     {
       "id": "302",
-      "nombre": "ID - INVESTIGATION DISCOVERY",
+      "nombre": "ID",
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
       "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
+      "sinopsis": "INVESTIGATION DISCOVERY."
     },
     {
       "id": "303",
@@ -158,7 +158,7 @@
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
       "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
+      "sinopsis": "ATRES SERIES."
     },
     {
       "id": "304",
@@ -166,7 +166,7 @@
       "poster_url": "",
       "logo_url": "",
       "stream_url": "",
-      "sinopsis": ""
+      "sinopsis": "PASIONES."
     },
     {
       "id": "305",
@@ -174,7 +174,7 @@
       "poster_url": "",
       "logo_url": "",
       "stream_url": "",
-      "sinopsis": ""
+      "sinopsis": "ENTERTAINMENT TV."
     },
     {
       "id": "306",
@@ -186,59 +186,51 @@
     },
     {
       "id": "307",
-      "nombre": "",
+      "nombre": "STAR TVE",
       "poster_url": "",
       "logo_url": "",
       "stream_url": "",
-      "sinopsis": ""
+      "sinopsis": "STAR TVE"
     },
     {
       "id": "308",
-      "nombre": "",
+      "nombre": "TELEMUNDO",
       "poster_url": "",
       "logo_url": "",
       "stream_url": "",
-      "sinopsis": ""
+      "sinopsis": "TELEMUNDO."
     },
     {
       "id": "309",
-      "nombre": "",
+      "nombre": "MTV",
       "poster_url": "",
       "logo_url": "",
       "stream_url": "",
-      "sinopsis": ""
+      "sinopsis": "MTV."
     },
     {
       "id": "310",
-      "nombre": "",
+      "nombre": "TNT NOVELAS",
       "poster_url": "",
       "logo_url": "",
       "stream_url": "",
-      "sinopsis": ""
+      "sinopsis": "TNT NOVELAS."
     },
     {
       "id": "311",
-      "nombre": "",
+      "nombre": "COMEDY CENTRAL",
       "poster_url": "",
       "logo_url": "",
       "stream_url": "",
-      "sinopsis": ""
+      "sinopsis": "COMEDY CENTRAL"
     },
     {
       "id": "312",
-      "nombre": "",
+      "nombre": "STAR CHANNEL",
       "poster_url": "",
       "logo_url": "",
       "stream_url": "",
-      "sinopsis": ""
-    },
-    {
-      "id": "312",
-      "nombre": "",
-      "poster_url": "",
-      "logo_url": "",
-      "stream_url": "",
-      "sinopsis": ""
+      "sinopsis": "STAR CHANNEL."
     },
     {
       "id": "313",
@@ -249,35 +241,140 @@
       "sinopsis": "Película de demo."
     },
     {
-      "nombre": "314",
+      "id": "314",
+      "nombre": "SONY",
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
       "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película"
+      "sinopsis": "SONY CHANNEL."
     },
     {
       "id": "315",
-      "nombre": "HBO",
+      "nombre": "WARNER CHANNEL",
       "logo_url": "https://mi-cdn.com/logos/sintel.png",
       "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
       "stream_url": "http://200.35.176.154:8000/play/a00l/index.m3u8",
-      "sinopsis": "Película de demo."
+      "sinopsis": "WARNER CHANNEL."
     },
     {
       "id": "316",
-      "nombre": "Sintel",
+      "nombre": "AXN",
       "logo_url": "https://mi-cdn.com/logos/sintel.png",
       "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
       "stream_url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
-      "sinopsis": "Película de demo."
+      "sinopsis": "AXN."
     },
     {
       "id": "317",
-      "nombre": "Canal Demo1",
+      "nombre": "UNIVERSAL TV",
       "poster_url": "https://dummyimage.com/1280x720/111/fff&text=Canal+Demo",
       "logo_url": "https://dummyimage.com/200x80/000/fff&text=LOGO",
       "stream_url": "https://oxide.lauchacohete.top/lWDLvLW4Va7FZEJvrOwTip6F9RqlXY663EMSj3hKVNTuVD8nu-9OLCCrhp38Yu2N08NL8dNC4Y6pd-xXhtVBnQ/tR79OXJoeRr1y2nNESrZCWMSlry-dk1ygReMWifYqPU/video.m3u8",
       "sinopsis": "Demo de canal en vivo."
+    },
+    {
+      "id": "318",
+      "nombre": "A&E",
+      "poster_url": "",
+      "logo_url": "",
+      "stream_url": "",
+      "sinopsis": "A&E."
+    },
+    {
+      "id": "319",
+      "nombre": "TNT Series",
+      "poster_url": "",
+      "logo_url": "",
+      "stream_url": "",
+      "sinopsis": "TNT Series."
+    },
+    {
+      "id": "320",
+      "nombre": "DHE HD",
+      "poster_url": "",
+      "logo_url": "",
+      "stream_url": "",
+      "sinopsis": "DHE HD."
+    },
+    {
+      "id": "321",
+      "nombre": "LIFETIME",
+      "poster_url": "",
+      "logo_url": "",
+      "stream_url": "",
+      "sinopsis": "LIFETIME."
+    },
+    {
+      "id": "400",
+      "nombre": "STAR CHANNEL",
+      "poster_url": "",
+      "logo_url": "",
+      "stream_url": "",
+      "sinopsis": "STAR CHANNEL."
+    },
+    {
+      "id": "401",
+      "nombre": "Space",
+      "poster_url": "",
+      "logo_url": "",
+      "stream_url": "",
+      "sinopsis": "SPACE."
+    },
+    {
+      "id": "402",
+      "nombre": "Cinecanal",
+      "poster_url": "",
+      "logo_url": "",
+      "stream_url": "",
+      "sinopsis": "CINECANAL."
+    },
+    {
+      "id": "403",
+      "nombre": "AMC",
+      "poster_url": "",
+      "logo_url": "",
+      "stream_url": "",
+      "sinopsis": "AMC."
+    },
+    {
+      "id": "404",
+      "nombre": "FX",
+      "poster_url": "",
+      "logo_url": "",
+      "stream_url": "",
+      "sinopsis": "FX."
+    },
+    {
+      "id": "312",
+      "nombre": "STAR CHANNEL",
+      "poster_url": "",
+      "logo_url": "",
+      "stream_url": "",
+      "sinopsis": "STAR CHANNEL."
+    },
+    {
+      "id": "312",
+      "nombre": "STAR CHANNEL",
+      "poster_url": "",
+      "logo_url": "",
+      "stream_url": "",
+      "sinopsis": "STAR CHANNEL."
+    },
+    {
+      "id": "312",
+      "nombre": "STAR CHANNEL",
+      "poster_url": "",
+      "logo_url": "",
+      "stream_url": "",
+      "sinopsis": "STAR CHANNEL."
+    },
+    {
+      "id": "312",
+      "nombre": "STAR CHANNEL",
+      "poster_url": "",
+      "logo_url": "",
+      "stream_url": "",
+      "sinopsis": "STAR CHANNEL."
     },
     {
       "id": "821",
