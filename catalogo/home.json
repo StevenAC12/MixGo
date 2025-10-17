@@ -1,28 +1,28 @@
 {
   "canales": [
     {
-      "id": "CLARO",
-      "nombre": "CLARO",
-      "logo_url": "https://static.wikia.nocookie.net/laguia/images/3/35/Logoclaro.png/revision/latest?cb=20170912161935&path-prefix=es",
-      "poster_url": "https://static.wikia.nocookie.net/laguia/images/3/35/Logoclaro.png/revision/latest?cb=20170912161935&path-prefix=es",
+      "id": "103",
+      "nombre": "CANAL UNO",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/3/35/CanalUnoColombia2024red.svg/revision/latest/scale-to-width-down/180?cb=20241001160226&path-prefix=es",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/3/35/CanalUnoColombia2024red.svg/revision/latest/scale-to-width-down/180?cb=20241001160226&path-prefix=es",
       "stream_url": "http://200.35.176.154:8000/play/a00s/index.m3u8",
-      "sinopsis": "CANAL CLARO."
+      "sinopsis": "CANAL UNO."
     },
     {
-      "id": "CANAL_UNO",
-      "nombre": "CANAL UNO",
+      "id": "104",
+      "nombre": "RCN",
       "logo_url": "https://static.wikia.nocookie.net/logopedia/images/0/0a/Canal_Congreso_2020.png/revision/latest?cb=20210429193857&path-prefix=es",
       "poster_url": "https://static.wikia.nocookie.net/logopedia/images/0/0a/Canal_Congreso_2020.png/revision/latest?cb=20210429193857&path-prefix=es",
       "stream_url": "http://201.182.248.146:11011/play/a06a/index.m3u8",
-      "sinopsis": "CANAL UNO"
+      "sinopsis": "NUESTRA TELE."
     },
     {
-      "id": "CANAL_DEL_CONGRESO",
-      "nombre": "CANAL DEL CONGRESO",
+      "id": "105",
+      "nombre": "CARACOL",
       "logo_url": "https://static.wikia.nocookie.net/logopedia/images/0/0a/Canal_Congreso_2020.png/revision/latest?cb=20210429193857&path-prefix=es",
       "poster_url": "https://static.wikia.nocookie.net/logopedia/images/0/0a/Canal_Congreso_2020.png/revision/latest?cb=20210429193857&path-prefix=es",
       "stream_url": "http://201.182.248.146:11011/play/a06a/89989640.m3u8",
-      "sinopsis": "Película de demo."
+      "sinopsis": "CARACOL TELEVISION."
     },
     {
       "id": "HBO",
