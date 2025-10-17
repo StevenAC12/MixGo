@@ -1,20 +1,27 @@
 {
   "canales": [
     {
-      "id": "CARACOL3",
-      "nombre": "CARACOL2",
-      "logo_url": "https://caracoltv.brightspotcdn.com/dims4/default/5b54116/2147483647/strip/true/crop/178x42+0+0/resize/178x42!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F44%2F6a%2F820db546454485076d0405049ee4%2Flogo-ctv.png",
-      "poster_url": "https://redirector.gvt1.com/api/manifest/hls_variant/id/c67d46d491498e21/itag/0/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/playlist_type/DVR/hfr/all/acao/yes/ctier/L/keepalive/yes/cpn/LAKPbw6N9tBHBJhm/ip/0.0.0.0/ipbits/0/expire/1791949929/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,playlist_type,hfr,acao,ctier/signature/644AA5EF84F4F320A7BADAD675A8C39CAFEF620A.0B35DDCF99028DBFE060DEAD9B06B3DAABCDA42A/key/ck2/file/index.m3u8",
-      "stream_url": "https://redirector.gvt1.com/api/manifest/hls_variant/id/c67d46d491498e21/itag/0/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/playlist_type/DVR/hfr/all/acao/yes/ctier/L/keepalive/yes/cpn/LAKPbw6N9tBHBJhm/ip/0.0.0.0/ipbits/0/expire/1791949929/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,playlist_type,hfr,acao,ctier/signature/644AA5EF84F4F320A7BADAD675A8C39CAFEF620A.0B35DDCF99028DBFE060DEAD9B06B3DAABCDA42A/key/ck2/file/index.m3u8",
-      "sinopsis": "Demo de canal en vivo."
+      "id": "CANAL_CLARO",
+      "nombre": "CANAL CLARO",
+      "logo_url": "https://mi-cdn.com/logos/sintel.png",
+      "poster_url": "https://static.wikia.nocookie.net/laguia/images/3/35/Logoclaro.png/revision/latest?cb=20170912161935&path-prefix=es",
+      "stream_url": "",
+      "sinopsis": "CANAL CLARO.."
+    },
+    {
+      "id": "Hbo",
+      "nombre": "HBO",
+      "logo_url": "https://mi-cdn.com/logos/sintel.png",
+      "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
+      "stream_url": "http://200.35.176.154:8000/play/a00l/index.m3u8",
+      "sinopsis": "Película de demo."
     },
     {
       "nombre": "TNT",
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
       "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "Película de demo."
-      }
+      "sinopsis": "Película de demo.
     },
     {
       "id": "Hbo",
@@ -38,11 +45,7 @@
       "poster_url": "https://dummyimage.com/1280x720/111/fff&text=Canal+Demo",
       "logo_url": "https://dummyimage.com/200x80/000/fff&text=LOGO",
       "stream_url": "https://oxide.lauchacohete.top/lWDLvLW4Va7FZEJvrOwTip6F9RqlXY663EMSj3hKVNTuVD8nu-9OLCCrhp38Yu2N08NL8dNC4Y6pd-xXhtVBnQ/tR79OXJoeRr1y2nNESrZCWMSlry-dk1ygReMWifYqPU/video.m3u8",
-      "headers": {
-        "Referer": "https://oxide.lauchacohete.top/",
-        "Origin": "https://oxide.lauchacohete.top",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 10; MixGoApp) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Mobile Safari/537.36"
-      }
+      "sinopsis": "Demo de canal en vivo."
     },
     {
       "id": "pelis",
