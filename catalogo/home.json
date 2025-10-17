@@ -45,7 +45,7 @@
       "nombre": "TELEANTIOQUIA",
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
-      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
+      "stream_url": "http://201.182.248.146:11011/play/a06z/index.m3u8",
       "sinopsis": "TELEANTIOQUIA."
     },
     {
@@ -122,7 +122,7 @@
     },
     {
       "id": "206",
-      "nombre": "ESPNCO",
+      "nombre": "ESPN CO",
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
       "stream_url": "http://201.182.248.146:11011/play/a06l/index.m3u8",
@@ -170,19 +170,19 @@
     },
     {
       "id": "303",
-      "nombre": "",
+      "nombre": "TV Union",
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
-      "stream_url": "http://200.35.176.154:8000/play/a0r9/index.m3u8",
-      "sinopsis": "."
+      "stream_url": "http://201.182.248.146:11011/play/a09f/index.m3u8",
+      "sinopsis": "TV UNION."
     },
     {
       "id": "304",
-      "nombre": "",
+      "nombre": "Pasiones",
       "poster_url": "",
       "logo_url": "",
-      "stream_url": "",
-      "sinopsis": "."
+      "stream_url": "http://200.35.176.154:8000/play/a0rv/index.m3u8",
+      "sinopsis": "PASIONES."
     },
     {
       "id": "305",
@@ -190,7 +190,7 @@
       "poster_url": "",
       "logo_url": "",
       "stream_url": "http://201.182.248.146:11011/play/a05j/index.m3u8",
-      "sinopsis": "entertainment TV."
+      "sinopsis": "ENTERTAINMENT TV."
     },
     {
       "id": "306",
