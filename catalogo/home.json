@@ -53,7 +53,7 @@
       "nombre": "RCN NOVELAS",
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
-      "stream_url": "http://201.182.248.146:11011/play/a05x/index.m3u8",
+      "stream_url": "http://200.35.176.154:8000/play/a027/index.m3u8",
       "sinopsis": "RCN NOVELAS."
     },
     {
@@ -193,22 +193,6 @@
       "sinopsis": "ENTERTAINMENT TV."
     },
     {
-      "id": "306",
-      "nombre": "",
-      "poster_url": "",
-      "logo_url": "",
-      "stream_url": "",
-      "sinopsis": ""
-    },
-    {
-      "id": "307",
-      "nombre": "",
-      "poster_url": "",
-      "logo_url": "",
-      "stream_url": "",
-      "sinopsis": ""
-    },
-    {
       "id": "308",
       "nombre": "TELEMUNDO",
       "poster_url": "",
@@ -237,7 +221,7 @@
       "nombre": "COMEDY CENTRAL",
       "poster_url": "",
       "logo_url": "",
-      "stream_url": "",
+      "stream_url": "http://200.35.176.154:8000/play/a0rd/index.m3u8",
       "sinopsis": "COMEDY CENTRAL"
     },
     {
@@ -247,6 +231,22 @@
       "logo_url": "",
       "stream_url": "http://201.182.248.146:11011/play/a04q/index.m3u8",
       "sinopsis": "STAR CHANNEL."
+    },
+    {
+      "id": "313",
+      "nombre": "HBO",
+      "logo_url": "https://mi-cdn.com/logos/sintel.png",
+      "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
+      "stream_url": "http://200.35.176.154:8000/play/a00l/index.m3u8",
+      "sinopsis": "Película de demo."
+    },
+    {
+      "id": "313",
+      "nombre": "HBO",
+      "logo_url": "https://mi-cdn.com/logos/sintel.png",
+      "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
+      "stream_url": "http://200.35.176.154:8000/play/a00l/index.m3u8",
+      "sinopsis": "Película de demo."
     },
     {
       "id": "313",
@@ -301,7 +301,7 @@
       "nombre": "TNT Series",
       "poster_url": "",
       "logo_url": "",
-      "stream_url": "",
+      "stream_url": "http://200.35.176.154:8000/play/a0rs/index.m3u8",
       "sinopsis": "TNT Series."
     },
     {
@@ -309,7 +309,7 @@
       "nombre": "DHE HD",
       "poster_url": "",
       "logo_url": "",
-      "stream_url": "",
+      "stream_url": "http://200.35.176.154:8000/play/a0r2/index.m3u8",
       "sinopsis": "DHE HD."
     },
     {
@@ -349,7 +349,7 @@
       "nombre": "AMC",
       "poster_url": "",
       "logo_url": "",
-      "stream_url": "",
+      "stream_url": "http://200.35.176.154:8000/play/a0qx/index.m3u8",
       "sinopsis": "AMC."
     },
     {
@@ -381,7 +381,7 @@
       "nombre": "Paramount Channel",
       "poster_url": "",
       "logo_url": "",
-      "stream_url": "",
+      "stream_url": "http://200.35.176.154:8000/play/a0rr/index.m3u8",
       "sinopsis": "PARAMOUNT CHANNEL."
     },
     {
@@ -445,7 +445,7 @@
       "nombre": "CARTOONITO",
       "poster_url": "",
       "logo_url": "",
-      "stream_url": "",
+      "stream_url": "http://200.35.176.154:8000/play/a011/index.m3u8",
       "sinopsis": "CARTOONITO."
     },
     {
@@ -466,11 +466,11 @@
     },
     {
       "id": "508",
-      "nombre": "Tenn Nick",
+      "nombre": "Tonncast",
       "poster_url": "",
       "logo_url": "",
-      "stream_url": "",
-      "sinopsis": "TEEN NICK."
+      "stream_url": "http://200.35.176.154:8000/play/a02z/index.m3u8",
+      "sinopsis": "TOONCAST."
     },
     {
       "id": "600",
@@ -493,7 +493,7 @@
       "nombre": "Discovery Theater",
       "poster_url": "",
       "logo_url": "",
-      "stream_url": "",
+      "stream_url": "http://200.35.176.154:8000/play/a0ra/index.m3u8",
       "sinopsis": "DISCOVERY THEATER."
     },
     {
@@ -509,7 +509,7 @@
       "nombre": "History 2",
       "poster_url": "",
       "logo_url": "",
-      "stream_url": "",
+      "stream_url": "http://200.35.176.154:8000/play/a01o/index.m3u8",
       "sinopsis": "HISTORY 2."
     },
     {
@@ -594,18 +594,18 @@
     },
     {
       "id": "801",
-      "nombre": "MTV Live",
+      "nombre": "MTV Hits",
       "poster_url": "",
       "logo_url": "",
-      "stream_url": "",
-      "sinopsis": "MTV LIVE."
+      "stream_url": "http://200.35.176.154:8000/play/a01e/index.m3u8",
+      "sinopsis": "MTV HITS."
     },
     {
       "id": "802",
       "nombre": "MTV 00S",
       "poster_url": "",
       "logo_url": "",
-      "stream_url": "",
+      "stream_url": "http://200.35.176.154:8000/play/a0rf/index.m3u8",
       "sinopsis": "MTV 00S."
     },
     {
@@ -629,7 +629,7 @@
       "nombre": "TCL",
       "poster_url": "",
       "logo_url": "",
-      "stream_url": "",
+      "stream_url": "http://200.35.176.154:8000/play/a039/index.m3u8",
       "sinopsis": "DISCOVERY CHANNEL."
     },
     {
@@ -653,7 +653,7 @@
       "nombre": "El Gourmet",
       "poster_url": "",
       "logo_url": "",
-      "stream_url": "",
+      "stream_url": "http://200.35.176.154:8000/play/a02a/index.m3u8",
       "sinopsis": "DISCOVERY CHANNEL."
     },
     {
@@ -661,7 +661,7 @@
       "nombre": "AdultSwim",
       "poster_url": "",
       "logo_url": "",
-      "stream_url": "",
+      "stream_url": "http://200.35.176.154:8000/play/a04n/index.m3u8",
       "sinopsis": "DISCOVERY CHANNEL."
     },
     {
@@ -669,15 +669,15 @@
       "nombre": "¡HOLA! TV",
       "poster_url": "",
       "logo_url": "",
-      "stream_url": "",
+      "stream_url": "http://200.35.176.154:8000/play/a0rc/index.m3u8",
       "sinopsis": "DISCOVERY CHANNEL."
     },
     {
       "id": "821",
-      "nombre": "TELEVID",
+      "nombre": "TVE",
       "logo_url": "https://mi-cdn.com/logos/sintel.png",
       "poster_url": "https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8?uid=aDsJ1CLUTrWmhu7EHMaiI89M7OtAHQC5&sid=Xp1fmUd4rcP5I9jJ5VzuNafLLFXB2z9L&pid=SPhi3tsCEj68SMhmDJQFqrNzRzZN6hro&pid_dvr=TEcVSccbOTF6uKyABffweitY0wpq9iPQ&an=screen&at=web-app&av=v6.0.212&ref=https%3A%2F%2Fwww.caracoltv.com%2F&res=375x211&without_cookies=false&listenerid=&dnt=true&access_token=1NXfukv3tEz4jjPXPN8YN08JKzHLZfobKLgiLrmNFwTprY59vd5TVQHspGouRl7m8b944HhtJIk&adInsertionGoogleStreamId=4ceea037-5c66-4205-a2c9-88b9224f1d6f:ATL",
-      "stream_url": "https://oxide.lauchacohete.top/hk284BUvIXm-DKtVape_y2m3HFyKTwrhYm7U-nXC_yYqNqYSdAYsU8wnVdbPmSzTnFqpD-AsUJh6gd3RMepqgQ/oGXTD7gd0QrCApMQNd-wKlMS89d4VaE9vyKJ8zw8gdA/480.m3u8",
+      "stream_url": "http://201.182.248.146:11011/play/a04x/index.m3u8",
       "sinopsis": "Demo de canal en vivo."
     }
   ],
