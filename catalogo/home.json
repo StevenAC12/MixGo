@@ -18,7 +18,7 @@
     },
     {
       "id": "103",
-      "nombre": "CANAL UNO",
+      "nombre": "Canal Uno",
       "poster_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Canal_1_colombia.png",
       "logo_url": "https://cdn.photoroom.com/v2/image-cache?path=gs%3A%2F%2Fbackground-7j6xz%2Fusers%2Ftemplates%2FY29hKWZutwbMGDgrOOn3e65lfHB3%2Ff1213989-8b8c-4024-932b-1b0fbd7fd73d%2F6a77b4b4-f4cd-438b-a83c-3f97cca7de65_thumbnail.webp&cacheBustingKey=1760703915",
       "stream_url": "http://201.182.248.146:11011/play/a06a/index.m3u8",
@@ -34,7 +34,7 @@
     },
     {
       "id": "105",
-      "nombre": "CARACOL",
+      "nombre": "Caracol TV",
       "logo_url": "",
       "poster_url": "",
       "stream_url": "http://201.182.248.146:11011/play/a09g/index.m3u8",
@@ -50,11 +50,11 @@
     },
     {
       "id": "107",
-      "nombre": "CANAL CAPITAL",
+      "nombre": "Canal Capital",
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
       "stream_url": "http://201.182.248.146:11011/play/a06s/index.m3u8",
-      "sinopsis": "TELEANTIOQUIA."
+      "sinopsis": "CANAL CAPITAL."
     },
     {
       "id": "108",
@@ -62,7 +62,7 @@
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
       "stream_url": "http://201.182.248.146:11011/play/a06r/index.m3u8",
-      "sinopsis": "TELEANTIOQUIA."
+      "sinopsis": "CITY TV."
     },
     {
       "id": "116",
@@ -145,7 +145,7 @@
       "sinopsis": "CADENA ESPN."
     },
     {
-      "id": "209",
+      "id": "207",
       "nombre": "WIN SPORTS",
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
@@ -153,7 +153,7 @@
       "sinopsis": "WIN SPORTS."
     },
     {
-      "id": "209",
+      "id": "208",
       "nombre": "WIN SPORTS +",
       "poster_url": "https://dummyimage.com/1280x720/000/fff&textTNT",
       "logo_url": "https://dummyimage.com/300x120/111/fff&text=TNT",
@@ -393,7 +393,7 @@
       "sinopsis": "."
     },
     {
-      "id": "313",
+      "id": "410",
       "nombre": "HBO",
       "logo_url": "https://mi-cdn.com/logos/sintel.png",
       "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
@@ -401,7 +401,7 @@
       "sinopsis": "Película de demo."
     },
     {
-      "id": "313",
+      "id": "411",
       "nombre": "HBO PLUS",
       "logo_url": "https://mi-cdn.com/logos/sintel.png",
       "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
@@ -409,7 +409,7 @@
       "sinopsis": "Película de demo."
     },
     {
-      "id": "313",
+      "id": "412",
       "nombre": "HBO XTREME",
       "logo_url": "https://mi-cdn.com/logos/sintel.png",
       "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
@@ -417,7 +417,7 @@
       "sinopsis": "Película de demo."
     },
     {
-      "id": "313",
+      "id": "413",
       "nombre": "HBO 2",
       "logo_url": "https://mi-cdn.com/logos/sintel.png",
       "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
@@ -425,7 +425,7 @@
       "sinopsis": "Película de demo."
     },
     {
-      "id": "313",
+      "id": "414",
       "nombre": "HBO FAMILY",
       "logo_url": "https://mi-cdn.com/logos/sintel.png",
       "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
