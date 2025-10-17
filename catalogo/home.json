@@ -231,31 +231,8 @@
       "logo_url": "",
       "stream_url": "http://201.182.248.146:11011/play/a04q/index.m3u8",
       "sinopsis": "STAR CHANNEL."
-    },
-    {
-      "id": "313",
-      "nombre": "HBO",
-      "logo_url": "https://mi-cdn.com/logos/sintel.png",
-      "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
-      "stream_url": "http://200.35.176.154:8000/play/a00l/index.m3u8",
-      "sinopsis": "Película de demo."
-    },
-    {
-      "id": "313",
-      "nombre": "HBO",
-      "logo_url": "https://mi-cdn.com/logos/sintel.png",
-      "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
-      "stream_url": "http://200.35.176.154:8000/play/a00l/index.m3u8",
-      "sinopsis": "Película de demo."
-    },
-    {
-      "id": "313",
-      "nombre": "HBO",
-      "logo_url": "https://mi-cdn.com/logos/sintel.png",
-      "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
-      "stream_url": "http://200.35.176.154:8000/play/a00l/index.m3u8",
-      "sinopsis": "Película de demo."
-    },
+    }
+    
     {
       "id": "314",
       "nombre": "SONY",
@@ -399,6 +376,54 @@
       "logo_url": "",
       "stream_url": "",
       "sinopsis": "."
+    },
+    {
+      "id": "313",
+      "nombre": "HBO",
+      "logo_url": "https://mi-cdn.com/logos/sintel.png",
+      "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
+      "stream_url": "http://200.35.176.154:8000/play/a00l/index.m3u8",
+      "sinopsis": "Película de demo."
+    },
+    {
+      "id": "313",
+      "nombre": "HBO PLUS",
+      "logo_url": "https://mi-cdn.com/logos/sintel.png",
+      "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
+      "stream_url": "http://200.35.176.154:8000/play/a00n/index.m3u8",
+      "sinopsis": "Película de demo."
+    },
+    {
+      "id": "313",
+      "nombre": "HBO XTREME",
+      "logo_url": "https://mi-cdn.com/logos/sintel.png",
+      "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
+      "stream_url": "http://200.35.176.154:8000/play/a00p/index.m3u8",
+      "sinopsis": "Película de demo."
+    },
+    {
+      "id": "313",
+      "nombre": "HBO",
+      "logo_url": "https://mi-cdn.com/logos/sintel.png",
+      "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
+      "stream_url": "http://200.35.176.154:8000/play/a00l/index.m3u8",
+      "sinopsis": "Película de demo."
+    },
+    {
+      "id": "313",
+      "nombre": "HBO 2",
+      "logo_url": "https://mi-cdn.com/logos/sintel.png",
+      "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
+      "stream_url": "http://200.35.176.154:8000/play/a00m/index.m3u8",
+      "sinopsis": "Película de demo."
+    },
+    {
+      "id": "313",
+      "nombre": "HBO FAMILY",
+      "logo_url": "https://mi-cdn.com/logos/sintel.png",
+      "poster_url": "https://dummyimage.com/800x450/333/fff&text=Sintel",
+      "stream_url": "http://200.35.176.154:8000/play/a00o/index.m3u8",
+      "sinopsis": "Película de demo."
     },
     {
       "id": "500",
