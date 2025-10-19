@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "id": "pel_001",
+      "titulo": "Avatar: The Way of Water",
+      "tipo": "pelicula",                 // 👈 clave para filtrar por pantalla
+      "categoria": "GENERAL",             // 👈 subcategoría (INFANTIL, ACCION, etc.)
+      "poster_url": "https://cdn.tuapp.com/posters/avatar2.jpg",
+      "thumb_url": "https://cdn.tuapp.com/thumbs/avatar2.jpg",
+      "year": 2022,
+      "rating": 7.6,
+      "sinopsis": "Jake Sully vive con su familia en Pandora...",
+      "url": "https://cdn-seguro.com/avatar2/master.m3u8",
+      "headers": {
+        "User-Agent": "MixGo/1.0",
+        "Origin": "https://tu-dominio.com"
+      }
+    },
+    {
+      "id": "ser_101",
+      "titulo": "The Mandalorian",
+      "tipo": "serie",
+      "categoria": "GENERAL",
+      "poster_url": "https://cdn.tuapp.com/posters/mando.jpg",
+      "year": 2019,
+      "rating": 8.6,
+      "sinopsis": "Un cazarrecompensas en la galaxia...",
+      "url": "https://cdn-seguro.com/mando/temporada1/episodio1.m3u8"
+    },
+    {
+      "id": "pel_100",
+      "titulo": "Toy Story",
+      "tipo": "pelicula",
+      "categoria": "INFANTIL",            // 👈 esto hará que salga en Infantil también
+      "poster_url": "https://cdn.tuapp.com/posters/toystory.jpg",
+      "year": 1995,
+      "rating": 8.3,
+      "sinopsis": "Woody y Buzz comparten aventuras...",
+      "url": "https://cdn-seguro.com/toystory/master.m3u8"
+    }
+  ]
+}
