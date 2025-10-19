@@ -714,10 +714,10 @@
     }
   ],
   "categorias": [
-    { "id": "Netflix", "nombre": "Netflix", "icon_url": "https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5.fit_lim.size_1050x591.v1582751026.png" },
-    { "id": "HBO MAX", "nombre": "HBO MAX", "icon_url": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/hbo-max-logo-1922879.jpg?tf=3840x" },
-    { "id": "Prime Video", "nombre": "Prime Video", "icon_url": "https://dummyimage.com/100x100/666/fff&text=SER" },
-    { "id": "Disney+", "nombre": "Disney+", "icon_url": "https://dummyimage.com/100x100/666/fff&text=SER" },
-    { "id": "start+", "nombre": "start+", "icon_url": "https://dummyimage.com/100x100/777/fff&text=INF" }
+    { "id": "Netflix", "nombre": "Netflix", "icon_url": "https://raw.githubusercontent.com/StevenAC12/MixGo/refs/heads/main/iconos/netflix.PNG" },
+    { "id": "HBO MAX", "nombre": "HBO MAX", "icon_url": "https://raw.githubusercontent.com/StevenAC12/MixGo/refs/heads/main/iconos/hbo.PNG" },
+    { "id": "Prime Video", "nombre": "Prime Video", "icon_url": "https://raw.githubusercontent.com/StevenAC12/MixGo/refs/heads/main/iconos/prime.PNG" },
+    { "id": "Disney+", "nombre": "Disney+", "icon_url": "https://raw.githubusercontent.com/StevenAC12/MixGo/refs/heads/main/iconos/disney.PNG" },
+    { "id": "start+", "nombre": "start+", "icon_url": "https://raw.githubusercontent.com/StevenAC12/MixGo/refs/heads/main/iconos/start.PNG" }
   ]
 }
