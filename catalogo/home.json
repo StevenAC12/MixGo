@@ -712,11 +712,4 @@
       "stream_url": "http://201.182.248.146:11011/play/a04x/index.m3u8",
       "sinopsis": "Demo de canal en vivo."
     }
-  ],
-  "categorias": [
-    { "id": "Netflix", "nombre": "Netflix", "icon_url": "https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5.fit_lim.size_1050x591.v1582751026.png" },
-    { "id": "Disney+", "nombre": "Disney+", "icon_url": "https://dummyimage.com/100x100/555/fff&text=PEL" },
-    { "id": "Prime Video", "nombre": "Series", "icon_url": "https://dummyimage.com/100x100/666/fff&text=SER" },
-    { "id": "HBO MAX", "nombre": "Infantil", "icon_url": "https://dummyimage.com/100x100/777/fff&text=INF" }
-  ]
 }
