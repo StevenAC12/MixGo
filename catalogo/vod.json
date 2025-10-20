@@ -3,8 +3,8 @@
     {
       "id": "pel_001",
       "titulo": "Avatar: The Way of Water",
-      "tipo": "pelicula",                 // 👈 clave para filtrar por pantalla
-      "categoria": "GENERAL",             // 👈 subcategoría (INFANTIL, ACCION, etc.)
+      "tipo": "peliculaS",                
+      "categoria": "GENERAL",            
       "poster_url": "https://cdn.tuapp.com/posters/avatar2.jpg",
       "thumb_url": "https://cdn.tuapp.com/thumbs/avatar2.jpg",
       "year": 2022,
@@ -31,7 +31,7 @@
       "id": "pel_100",
       "titulo": "Toy Story",
       "tipo": "pelicula",
-      "categoria": "INFANTIL",            // 👈 esto hará que salga en Infantil también
+      "categoria": "INFANTIL",          
       "poster_url": "https://cdn.tuapp.com/posters/toystory.jpg",
       "year": 1995,
       "rating": 8.3,
