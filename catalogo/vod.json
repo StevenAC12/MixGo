@@ -3,8 +3,8 @@
     {
       "id": "pel_001",
       "titulo": "Avatar: The Way of Water",
-      "tipo": "peliculaS",                
-      "categoria": "GENERAL",            
+      "tipo": "pelicula",                
+      "categoria": ["GENERAL", "SUSPENSO"]            
       "poster_url": "https://cdn.tuapp.com/posters/avatar2.jpg",
       "thumb_url": "https://cdn.tuapp.com/thumbs/avatar2.jpg",
       "year": 2022,
@@ -21,6 +21,17 @@
       "titulo": "The Mandalorian",
       "tipo": "serie",
       "categoria": "GENERAL",
+      "poster_url": "https://cdn.tuapp.com/posters/mando.jpg",
+      "year": 2019,
+      "rating": 8.6,
+      "sinopsis": "Un cazarrecompensas en la galaxia...",
+      "url": "https://cdn-seguro.com/mando/temporada1/episodio1.m3u8"
+    },
+    {
+      "id": "ser_101",
+      "titulo": "The Mandalorian",
+      "tipo": "PELICULA",
+      "categoria": "TERROR",
       "poster_url": "https://cdn.tuapp.com/posters/mando.jpg",
       "year": 2019,
       "rating": 8.6,
