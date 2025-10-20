@@ -2,7 +2,7 @@
   "items": [
     {
       "id": "pel_001",
-      "titulo": "Avatar prueba",
+      "titulo": "Avatar prueba1",
       "tipo": "pelicula",
       "categoria": "GENERAL, SUSPENSO",
       "poster_url": "https://cdn.tuapp.com/posters/avatar2.jpg",
@@ -10,7 +10,7 @@
       "year": 2022,
       "rating": 7.6,
       "sinopsis": "Jake Sully vive con su familia en Pandora...",
-      "url": "https://youtu.be/8PzAqV7fXUc",
+      "url": "https://youtu.be/8PzAqV7fXUc.mp4",
       "headers": {
         "User-Agent": "MixGo/1.0",
         "Origin": "https://tu-dominio.com"
