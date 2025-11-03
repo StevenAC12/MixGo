@@ -50,6 +50,14 @@
       "url": "https://cdn-seguro.com/conjuring/master.m3u8"
     },
     {
+      "id": "yt_001",
+      "titulo": "Mi Video en Youtube",
+      "tipo": "pelicula",
+      "categoria": "GENERAL",
+      "poster_url": "https://img.youtube.com/vi/v-pCHAC63Ec/hqdefault.jpg",
+      "youtube_id": "v-pCHAC63Ec"
+    },
+    {
       "id": "pel_100",
       "titulo": "Toy Story",
       "tipo": "pelicula",
