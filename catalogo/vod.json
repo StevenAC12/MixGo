@@ -10,7 +10,7 @@
       "year": 2022,
       "rating": 7.6,
       "sinopsis": "Jake Sully vive con su familia en Pandora...",
-      "url": "https://youtu.be/8PzAqV7fXUc.mp4",
+      "url": "http://201.182.248.146:11011/play/a0a5/index.m3u8",
       "headers": {
         "User-Agent": "MixGo/1.0",
         "Origin": "https://tu-dominio.com"
