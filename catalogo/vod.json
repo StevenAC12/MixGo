@@ -28,6 +28,28 @@
       "url": "https://cdn-seguro.com/mando/temporada1/episodio1.m3u8"
     },
     {
+      "id": "ser_102",
+      "titulo": "The Mandalorian",
+      "tipo": "serie",
+      "categoria": "NOVEDADES",
+      "poster_url": "https://cdn.tuapp.com/posters/mando.jpg",
+      "year": 2019,
+      "rating": 8.6,
+      "sinopsis": "Un cazarrecompensas en la galaxia...",
+      "url": "https://cdn-seguro.com/mando/temporada1/episodio1.m3u8"
+    },
+    {
+      "id": "ser_102",
+      "titulo": "The Mandalorian",
+      "tipo": "pelicula",
+      "categoria": "NOVEDADES",
+      "poster_url": "https://cdn.tuapp.com/posters/mando.jpg",
+      "year": 2019,
+      "rating": 8.6,
+      "sinopsis": "Un cazarrecompensas en la galaxia...",
+      "url": "https://cdn-seguro.com/mando/temporada1/episodio1.m3u8"
+    },
+    {
       "id": "ser_101",
       "titulo": "PRUEBA 2",
       "tipo": "pelicula",
