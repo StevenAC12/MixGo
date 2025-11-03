@@ -20,6 +20,7 @@
       "id": "ser_101",
       "titulo": "The Mandalorian",
       "tipo": "serie",
+      "temporada": 2,
       "categoria": "GENERAL",
       "poster_url": "https://cdn.tuapp.com/posters/mando.jpg",
       "year": 2019,
